@@ -1,4 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:
+#EXTINF:0,
 http://s3.jp-tok.cloud-object-storage.appdomain.cloud/evlive/hls/0/stream.m3u8
+#EXTINF:0
+https://www.youtube.com/watch?v=8zUdwHwuwhQ
